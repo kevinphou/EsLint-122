@@ -4,8 +4,3 @@ const x = {
 
 console.log(x);
 
-x = {
-    BC: "human"
-};
-
-console.log(x);

@@ -1,2 +1,2 @@
-console.log(a);
 var a = 'BC Ko';
+console.log(a);

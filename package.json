@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "node": "^20.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  },
+  "name": "eslint-122",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" , "lint": "eslint *.js"
+  },
+  "keywords": [],
+  "author": "kevinphou",
+  "license": "ISC",
+  "description": ""
+}
